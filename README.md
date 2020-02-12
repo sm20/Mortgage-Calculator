@@ -21,7 +21,7 @@ INSTRUCTIONS
 1. In a terminal, compile as follows:
 	javac *.java
 2. Run the program:
-	java Test
+	java Controller
 	
 OR  
 
